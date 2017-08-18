@@ -2,9 +2,9 @@
 
 基于https://github.com/yafei236/SwooleDistributed-docker 项目进行改进
 
-##基于 ubuntu:16.04
+## 基于 ubuntu:16.04
 
-###本项目适用于 sd 新手 用于开发环境
+### 本项目适用于 sd 新手 用于开发环境
 ```
 docker build -t sd:static .
 ```
@@ -39,7 +39,7 @@ http://localhost:8081/TestController/test
 http://127.0.0.1:8081/
 http://localhost:8081/
 
-##Ubuntu 安装php7.1
+## Ubuntu 安装php7.1
 
 更新本机内置程序
 ```
